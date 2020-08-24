@@ -257,8 +257,8 @@ header{
     height: 5%;
     
 }
-.profile-img img {
-    height: 400px;
+.profile-img img{
+    height: 500px;
 }
 .about-details{
     flex:1;
