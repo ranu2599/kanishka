@@ -380,7 +380,7 @@ margin-top: 1rem;
 
 .Contacts .icon-con i {
     color: white;
-    font-size: 4rem;
+    font-size: 2rem;
     margin: auto;
     margin-bottom: 2rem;
     
@@ -390,7 +390,7 @@ margin-top: 1rem;
 .con h5{
 	margin-top: 10px;
 	color:lightblue;
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
     text-transform: uppercase;
         letter-spacing: 2px;
@@ -658,6 +658,9 @@ margin-top: 1rem;
         .profile-img img {
             height: 250px;
         }
+	.con h5{
+		font-size:25px;
+	}
     }  
 
 
